@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  type: 
+  why_companions_are_needed: MyString
+  description: MyText
+  leader: 1
+  desred_group_size: 1
+  current_group_size: 1
+
+two:
+  title: MyString
+  type: 
+  why_companions_are_needed: MyString
+  description: MyText
+  leader: 1
+  desred_group_size: 1
+  current_group_size: 1
